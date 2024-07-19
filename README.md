@@ -1,2 +1,4 @@
 # Mayankshuklacoder.github.io
-This is my first website
+#ACTIVITY REPORT
+
+|**DAY 1**| this is ny|
